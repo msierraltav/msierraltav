@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Check my [previous github repo] with my thesis project.
+
+[previous github repo]: https://github.com/SirKawaii
 <!--
 **msierraltav/msierraltav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
