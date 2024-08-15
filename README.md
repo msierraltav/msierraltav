@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Check my [previous github repo] with my thesis project.
+My [previous github repo] with my thesis project.
 
 [previous github repo]: https://github.com/SirKawaii
 <!--
