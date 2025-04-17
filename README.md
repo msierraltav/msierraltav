@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Just for fun, projects and experiments to learn and polish my skills.
+Just for fun, projects and experiments to learn and improve my skills.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msierraltav&hide_progress=false&layout=compact&theme=transparent)
 
